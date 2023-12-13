@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="3.39.24.233" id="c1b6a13a-3167-4de7-90cc-21cfd7942874" keyPath="C:\Users\hyeon2-400\Downloads\aws-study_keypair.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

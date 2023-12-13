@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="425f8f20-7407-4a28-bb4a-ca47767edc0f" name="YachuServer-EC2" url="http://3.39.24.233">
+        <fileTransfer rootFolder="/home/ec2-user/yachu-server" accessType="SFTP" host="3.39.24.233" port="22" sshConfigId="c1b6a13a-3167-4de7-90cc-21cfd7942874" sshConfig="ec2-user@3.39.24.233:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
